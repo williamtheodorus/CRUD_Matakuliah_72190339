@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/willi/Documents/CRUD_Matakuliah_72190339/app/src/main/res/layout/activity_add_matkul.xml" value="0.1" />
+        <entry key="..\:/Users/willi/Documents/CRUD_Matakuliah_72190339/app/src/main/res/layout/activity_get_matkul.xml" value="0.1" />
         <entry key="..\:/Users/willi/Documents/CRUD_Matakuliah_72190339/app/src/main/res/layout/activity_main.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/willi/Documents/CRUD_Matakuliah_72190339/app/src/main/res/layout/activity_update_matkul.xml" value="0.1" />
+        <entry key="..\:/Users/willi/Documents/CRUD_Matakuliah_72190339/app/src/main/res/layout/rv_item_matkul.xml" value="0.1" />
       </map>
     </option>
   </component>

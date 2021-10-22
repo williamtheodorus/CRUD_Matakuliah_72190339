@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRUD_Matakuliah_72190339">
         <activity
+            android:name=".crud.UpdateMatkulActivity"
+            android:exported="true" />
+        <activity
+            android:name=".crud.AddMatkulActivity"
+            android:exported="true" />
+        <activity
+            android:name=".crud.GetMatkulActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
